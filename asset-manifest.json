@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sky-production/static/css/main.3fa66221.css",
-    "main.js": "/sky-production/static/js/main.34cb6ebb.js",
+    "main.css": "/sky-production/static/css/main.2b9ec118.css",
+    "main.js": "/sky-production/static/js/main.1e0b15c1.js",
     "static/media/converter.jpg": "/sky-production/static/media/converter.ae687dbfa8a889c96b28.jpg",
     "static/media/Mac.jpg": "/sky-production/static/media/Mac.8aeb9df847f0e7ff5e7b.jpg",
     "static/media/oceanpark.png": "/sky-production/static/media/oceanpark.eb574be99eef7e258240.png",
@@ -22,11 +22,11 @@
     "static/media/HSBC.svg": "/sky-production/static/media/HSBC.b8af702922e0ea1a74c9b29216d02e30.svg",
     "static/media/slick.woff": "/sky-production/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/sky-production/index.html",
-    "main.3fa66221.css.map": "/sky-production/static/css/main.3fa66221.css.map",
-    "main.34cb6ebb.js.map": "/sky-production/static/js/main.34cb6ebb.js.map"
+    "main.2b9ec118.css.map": "/sky-production/static/css/main.2b9ec118.css.map",
+    "main.1e0b15c1.js.map": "/sky-production/static/js/main.1e0b15c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.3fa66221.css",
-    "static/js/main.34cb6ebb.js"
+    "static/css/main.2b9ec118.css",
+    "static/js/main.1e0b15c1.js"
   ]
 }
